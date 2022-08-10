@@ -5,5 +5,5 @@ Este projeto tem como objetivo promover um contato prático introdutório com o 
 - HTML;
 - ECMAScript 6.
 
-###S :pager: Videoaula:
+### :pager: Videoaula:
 - [Introdução - ES6: Classes e variáveis](https://www.youtube.com/watch?v=ryK4VsyXJLA).
